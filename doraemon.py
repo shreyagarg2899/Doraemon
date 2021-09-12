@@ -209,7 +209,7 @@ def bell():
 
 
 def stomachpocket():
-    color("black", "black")
+    color("black", "blue")
     penup()
     goto(-25, -70)
     pendown()
